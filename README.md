@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and fullstack devlopment.
 - 🌱 I’m currently learning C# and .Net Frameworks.
 - 💞️ I’m looking to collaborate on project related work.
-- 📫 How to reach me ...
+- 📫 You can reach me if there is any opportunities.
 
 <!---
 GeethaDevloper/GeethaDevloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
